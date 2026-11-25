@@ -1,10 +1,10 @@
 
-numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-opencv-python-headless
-Pillow
 flask
 gunicorn
+tensorflow
+numpy
+pillow
+pandas
+scikit-learn
+opencv-python-headless
+matplotlib
